@@ -103,7 +103,7 @@ To run the project from source:
 
 ## 📸 Live Preview
 
-![Live Preview](screenshots/preview.png)
+![Live Preview](screenshots/preview.gif)
 
 ---
 
