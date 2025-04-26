@@ -1,4 +1,4 @@
-# Zimní krajina – Final Project for PGRF2
+# Winter 3D Scene – Final Project for PGRF2
 
 **Author**: Nadezhda Grishina  
 **Course**: PGRF2  
@@ -61,7 +61,7 @@ Or manually:
 ```bash
 java -XstartOnFirstThread -jar ./project-pgrf2.jar
 ```
-⚠️ This JAR was built and tested on macOS only.It includes native libraries for macOS and will not run on Windows or Linux.
+⚠️ This JAR was built and tested on macOS only. It includes native libraries for macOS and will not run on Windows or Linux.
 
 ### 💻 Running on Windows / Linux / Other OS
 
