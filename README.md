@@ -1,8 +1,6 @@
-# Winter 3D Scene – Final Project for PGRF2
+# Winter 3D Scene
 
-**Author**: Nadezhda Grishina  
-**Course**: PGRF2  
-**University**: University of Hradec Králové  
+**Author**: Nadezhda Grishina   
 **Last Update**: April 24, 2025
 
 ---
