@@ -118,3 +118,5 @@ See file `used_sources.txt` for full list of:
 
 This project was created for educational purposes only as part of the PGRF2 course at UHK.  
 All external textures and libraries are used under appropriate free or educational licenses and are referenced accordingly.
+It uses a base structure and some foundational classes provided by the Faculty of Informatics and Management for educational purposes.  
+All additional code, logic, and extensions were implemented by the author.
